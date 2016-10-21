@@ -77,3 +77,9 @@ body{
 a{
 	text-decoration:none;
 }
+.music{
+	padding: 0;
+	width: 1px;
+	height: 1px;
+	float: left;
+}
